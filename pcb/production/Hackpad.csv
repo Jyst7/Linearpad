@@ -1,0 +1,8 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"SW7,SW11,SW4,SW8,SW2,SW3,SW10,SW6";"MX-Solderable-1U";8;"SW_Push";;;
+2;"R3,R4,R1,R2";"R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal";4;"R";;;
+3;"SW13";"RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm";1;"RotaryEncoder_Switch";;;
+4;"U1";"XIAO-Generic-Hybrid-14P-2.54-21X17.8MM";1;"MOUDLE-SEEEDUINO-XIAO";;;
+5;"Brd1";"128x64OLED";1;"SSD1306";;;
+6;"D15,D16,D18,D2,D17,D1";"LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm";6;"SK6812";;;
+7;"D6,D5,D10,D8,D4,D12,D9,D13,D14";"D_DO-35_SOD27_P7.62mm_Horizontal";9;"D";;;
