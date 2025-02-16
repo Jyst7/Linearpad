@@ -23,6 +23,7 @@ BOM:
 - 4x 10kΩ SMD 1206 resistors
 - 1x EC11 Rotary encoders
 - 1x XIAO RP2040
+- 1x 0.96" OLED display
 
 Others:
 - KMK Firmware
