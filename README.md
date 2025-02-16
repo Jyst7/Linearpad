@@ -1,38 +1,37 @@
-# Linearpad
+# LinearPad
 
-A custom macropad project featuring a 3x3 key matrix with rotary encoder and OLED display.
+![hackpad](https://github.com/user-attachments/assets/53931763-4bba-4208-877c-1c5c34c06a55)
 
-## Features
 
-- 9-key matrix layout (3x3)
-- Rotary encoder with volume control
-- OLED display with layer information
-- RGB LED support (6 LEDs)
-- Media key functionality
+### Inspiration
 
-## Pin Configuration
+I wanted to create a macropad that allowed to use macros and work more efficiently. I created a macropad using 4 switches, 1 oled, 1 encoder, and 6 leds. 
 
-### Matrix
-- COL_PINS: [PA02_A0_D0, PA04_A1_D1, PA10_A2_D2]
-- ROW_PINS: [PB08_A7_D7, PA09_A8_D8, PA11_A3_D3]
+### Challenges
 
-### Encoder
-- ENC_SWA: D14
-- ENC_SWB: D10
-- ENC_A: PA06_A10_D10_MISO
-- ENC_B: PA07_A9_D9_MOSI
-- ENC_C: GND
+This was my first time using Kicad! It ended up taking a lot of time and asking for help on slack but I'm pretty proud of the final product. I had the most struggle figuring out how to make footprints work, it took me a while to get the hang of it.
 
-### OLED
-- OLED_SCL: PA09_A8_D8_SCK
-- OLED_SDA: PA08_A4_D4_SDA
-- OLED_VCC: VCC
-- OLED_GND: GND
+### Specifications
 
-### LED
-- LED_PIN: PA03_A3_D3
+BOM: 
+- 4x Cherry MX Switches
+- 2x SK6812 MINI Leds
+- 1x XIAO RP2040
+- 4x Blank DSA Keycaps
+- 4x M3x16 Bolt
+- 4x M3 Heatset
 
-### Power
-- VCC_3V3: VCC
-- VCC_5V: PA14_A5_D5
-- GND: GND 
+Others:
+- KMK Firmware
+- Top Case.stl 
+- Bottom Case.stl
+
+Schematic            |  PCB         |   Case
+:-------------------------:|:-------------------------:|:-------------------------:|
+  <img width="732" alt="Screenshot 2025-02-15 at 11 47 35 PM" src="https://github.com/user-attachments/assets/79c20352-b7ea-4237-94a0-d45c5bd0d8d8" /> |  <img width="635" alt="Screenshot 2025-02-15 at 11 47 20 PM" src="https://github.com/user-attachments/assets/ec26e99a-c0f4-4dc1-b7f5-31ac36d5b555" />
+|<img width="1051" alt="Screenshot 2025-02-15 at 11 50 37 PM" src="https://github.com/user-attachments/assets/e64f3356-613e-4335-a94d-3b8c16a8e76e" />
+
+
+
+
+
