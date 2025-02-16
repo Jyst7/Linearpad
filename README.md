@@ -14,12 +14,15 @@ This was my first time using Kicad! It ended up taking a lot of time and asking 
 ### Specifications
 
 BOM: 
-- 4x Cherry MX Switches
-- 2x SK6812 MINI Leds
-- 1x XIAO RP2040
-- 4x Blank DSA Keycaps
+- 9x SMD Diodes (1N4148W)
+- 8x Cherry MX Switches
+- 6x SK6812 MINI Leds
+- 6x Blank DSA Keycaps
 - 4x M3x16 Bolt
 - 4x M3 Heatset
+- 4x 10kΩ SMD 1206 resistors
+- 1x EC11 Rotary encoders
+- 1x XIAO RP2040
 
 Others:
 - KMK Firmware
