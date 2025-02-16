@@ -26,9 +26,10 @@ Others:
 - Top Case.stl 
 - Bottom Case.stl
 
-Schematic            |  PCB         |   Case
-:-------------------------:|:-------------------------:|:-------------------------:|
-  <img width="732" alt="Screenshot 2025-02-15 at 11 47 35 PM" src="https://github.com/user-attachments/assets/79c20352-b7ea-4237-94a0-d45c5bd0d8d8" /> |  <img width="635" alt="Screenshot 2025-02-15 at 11 47 20 PM" src="https://github.com/user-attachments/assets/ec26e99a-c0f4-4dc1-b7f5-31ac36d5b555" />
+Schematic            |  PCB         |
+:-------------------------:|:-------------------------:|
+<img width="732" alt="Screenshot 2025-02-15 at 11 47 35 PM" src="https://github.com/user-attachments/assets/79c20352-b7ea-4237-94a0-d45c5bd0d8d8" /> |  <img width="635" alt="Screenshot 2025-02-15 at 11 47 20 PM" src="https://github.com/user-attachments/assets/ec26e99a-c0f4-4dc1-b7f5-31ac36d5b555" />
+Case
 |  <img width="1051" alt="Screenshot 2025-02-15 at 11 50 37 PM" src="https://github.com/user-attachments/assets/e64f3356-613e-4335-a94d-3b8c16a8e76e" />
 
 
